@@ -1,1 +1,0 @@
-I'm an operations specialist at the Santa Cruz Institute for Particle Physics (SCIPP). I'm also a research assistant for an interdisciplinary project focused on exploring the quantum properties of materials.
