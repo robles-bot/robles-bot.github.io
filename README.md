@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="jpr_hs.JPG" width="250" height="300">
+  <img src="jpr_hs.JPG" width="300" height="400">
   
 I'm an operations specialist at the Santa Cruz Institute for Particle Physics (SCIPP). I am also part of a interdisciplinary
 
