@@ -5,3 +5,12 @@
   width: 50%;
   height: 50%;
 }
+.column {
+  float: left;
+  width: 50%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
