@@ -1,0 +1,20 @@
+site_name: Robles Notes
+site_url: https://robles-bot.github.io/
+repo_url: https://github.com/robles-bot/robles-bot.github.io
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - content.code.copy
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
