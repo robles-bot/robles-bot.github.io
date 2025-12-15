@@ -1,4 +1,8 @@
 site_name: Robles Notes
+nav:
+  - Home: index.md
+  - Publications: publications/index.md
+
 site_url: https://robles-bot.github.io/
 repo_url: https://github.com/robles-bot/robles-bot.github.io
 theme:
@@ -13,6 +17,7 @@ plugins:
 markdown_extensions:
   - admonition
   - pymdownx.superfences
+  - pymdownx.details
   - pymdownx.arithmatex:
       generic: true
 extra_javascript:
