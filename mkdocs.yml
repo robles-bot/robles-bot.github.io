@@ -23,7 +23,6 @@ repo_url: https://github.com/robles-bot/robles-bot.github.io
 theme:
   name: material
   features:
-    - navigation.instant
     - navigation.sections
     - search.suggest
     - content.code.copy
@@ -37,5 +36,6 @@ markdown_extensions:
       generic: true
   - attr_list
 extra_javascript:
-  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
