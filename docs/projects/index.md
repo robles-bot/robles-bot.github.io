@@ -1,6 +1,18 @@
 # Projects
 
-Selected computational physics and machine learning projects from coursework at UC Santa Cruz.
+Selected research, computational physics, and outreach work.
+
+---
+
+## US-ATLAS Tier-3 Benchmarking
+
+**Organization:** US-ATLAS (2024–2026)
+
+Developed benchmarking infrastructure for ATLAS Tier-3 Analysis Facilities at BNL, SLAC, NERSC, and University of Chicago. Built automated monitoring pipelines using Kubernetes, GitHub Actions, Elasticsearch, and Kibana.
+
+**Topics:** HPC, Kubernetes, Elasticsearch, ATLAS computing, Python
+
+[View Project →](atlas.md)
 
 ---
 

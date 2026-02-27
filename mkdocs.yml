@@ -4,6 +4,7 @@ nav:
   - Publications: publications/index.md
   - Projects:
     - Overview: projects/index.md
+    - US-ATLAS Benchmarking: projects/atlas.md
     - Higgs Mass Reconstruction: projects/higgs.md
     - Double Pendulum Dynamics: projects/double-pendulum.md
     - PYAR Outreach Curriculum: projects/pyar.md
