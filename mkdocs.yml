@@ -2,6 +2,21 @@ site_name: Robles Notes
 nav:
   - Home: index.md
   - Publications: publications/index.md
+  - Projects:
+    - Overview: projects/index.md
+    - Higgs Mass Reconstruction: projects/higgs.md
+    - Double Pendulum Dynamics: projects/double-pendulum.md
+    - PYAR Outreach Curriculum: projects/pyar.md
+  - Vimwiki Guide:
+    - Overview: vimwiki/index.md
+    - Setup: vimwiki/setup.md
+    - LaTeX Snippets: vimwiki/snippets.md
+    - Templates: vimwiki/templates.md
+    - Daily Workflow: vimwiki/workflow.md
+    - Research Workflow: vimwiki/research.md
+    - GTD System: vimwiki/gtd.md
+    - Extras: vimwiki/extras.md
+    - Reference: vimwiki/reference.md
 
 site_url: https://robles-bot.github.io/
 repo_url: https://github.com/robles-bot/robles-bot.github.io
@@ -20,6 +35,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.arithmatex:
       generic: true
+  - attr_list
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
