@@ -42,7 +42,7 @@ Numerical simulation and analysis of double pendulum dynamics using Runge-Kutta 
 
 ## PYAR Outreach Curriculum
 
-**Program:** PHYS 195 - PYAR/CrEST Outreach
+**Program:** PYAR/CrEST Outreach
 
 A series of Jupyter notebooks introducing high school and early undergraduate students to particle physics data analysis. Students progress from Python basics to analyzing real CERN Open Data and discovering the Z boson.
 

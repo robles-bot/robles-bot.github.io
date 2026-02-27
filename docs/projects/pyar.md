@@ -1,6 +1,6 @@
 # Particle Physics Data Analysis with Python
 
-**Program:** PHYS 195 - PYAR/CrEST Outreach
+**Program:** PYAR/CrEST Outreach
 **Institution:** UC Santa Cruz
 **Role:** Curriculum Developer & Instructor
 
