@@ -38,8 +38,6 @@ This guide incorporates ideas and methodologies from:
 - **[UltiSnips](https://github.com/SirVer/ultisnips)** - Snippet engine for Vim
 - **[vim-zettel](https://github.com/michal-h21/vim-zettel)** - Optional Zettelkasten integration
 
-The BREAD acronym (Bombs, Removal, Evasion, Aggro, Dregs) for MTG drafting is community knowledge with unclear origin.
-
 ---
 
 *Remember: The best system is the one you actually use. Start simple, add complexity only when needed.*
